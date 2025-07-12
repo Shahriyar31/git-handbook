@@ -18,13 +18,38 @@ git-handbook/
 │   ├── 1.4-making-changes.md
 │   └── 1.5-undoing-mistakes.md
 ├── part2-remotes/        # Focuses on collaboration with remote repositories
-│   └── ...
+│   ├── README.md         # Overview for Part 2
+│   ├── 2.1-intro-remotes.md
+│   ├── 2.2-git-clone.md
+│   ├── 2.3-push-pull-fetch.md
+│   ├── 2.4-basic-remote-workflow.md
+│   └── 2.5-handling-conflicts-basic.md
 ├── part3-branching/      # Deep dive into branching, merging, and rebasing
-│   └── ...
+│   ├── README.md         # Overview for Part 3
+│   ├── 3.1-power-of-branching.md
+│   ├── 3.2-branch-management.md
+│   ├── 3.3-merging-strategies.md
+│   ├── 3.4-advanced-merge-resolution.md
+│   ├── 3.5-rebasing.md
+│   └── 3.6-stashing.md
 ├── part4-advanced/       # Explores advanced concepts, workflows, and internals
-│   └── ...
+│   ├── README.md         # Overview for Part 4
+│   ├── 4.1-undoing-rewriting-history.md
+│   ├── 4.2-working-with-tags.md
+│   ├── 4.3-git-internals.md
+│   ├── 4.4-hooks.md
+│   ├── 4.5-submodules.md
+│   ├── 4.6-git-workflows.md
+│   └── 4.7-troubleshooting.md
 ├── part5-best-practices/ # Essential tips for effective and collaborative Git usage
-│   └── ...
+│   ├── README.md         # Overview for Part 5
+│   ├── 5.1-good-commit-messages.md
+│   ├── 5.2-atomic-commits.md
+│   ├── 5.3-branch-naming.md
+│   ├── 5.4-when-to-commit-push.md
+│   ├── 5.5-gitignore.md
+│   ├── 5.6-gui-clients.md
+│   └── 5.7-further-resources.md
 ├── images/               # Optional: Directory for all diagrams and screenshots
 ├── LICENSE               # Your chosen open-source license
 ├── README.md             # This file: the entry point to the handbook
