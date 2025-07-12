@@ -1,6 +1,6 @@
 # The Open Git Handbook 🚀
 
-Welcome to **The Open Git Handbook**! This comprehensive guide is designed to take you from a complete beginner to an advanced Git user. Whether you're just starting your coding journey, joining a collaborative project, or looking to deepen your version control skills, this handbook has you covered.
+> Welcome to **The Open Git Handbook**! This comprehensive guide is designed to take you from a complete beginner to an advanced Git user. Whether you're just starting your coding journey, joining a collaborative project, or looking to deepen your version control skills, this handbook has you covered.
 
 ---
 
@@ -50,10 +50,9 @@ git-handbook/
 │   ├── 5.5-gitignore.md
 │   ├── 5.6-gui-clients.md
 │   └── 5.7-further-resources.md
-├── images/               # Optional: Directory for all diagrams and screenshots
+├── COMMAND_REFERENCE.md  # A quick cheatsheet for common Git commands
 ├── LICENSE               # Your chosen open-source license
-├── README.md             # This file: the entry point to the handbook
-└── CONTRIBUTING.md       # Guidelines for external contributions
+└── README.md             # This file: the entry point to the handbook
 ```
 
 ---
@@ -106,7 +105,7 @@ This handbook is structured into five main parts, progressing from fundamental c
 
 ## 🤝 Contributing
 
-We believe in continuous improvement! If you find any typos, errors, or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+I believe in continuous improvement! If you find any typos, errors, or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ---
 
@@ -118,4 +117,4 @@ This handbook is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Maintained by
 
-This open handbook is actively maintained by **Shahriyar**.
+This open handbook is actively maintained by **Farhan Shahriyar**.
